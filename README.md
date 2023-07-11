@@ -1,4 +1,4 @@
-# D3 React implementation Chart bar
+# D3.js React implementation with Chart bar
 
 `npm install`
 
