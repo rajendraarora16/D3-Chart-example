@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.chartAndControlsFlex {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.chartGrid {
+  height: 100%;
+  width: 100%;
+  display: grid;
+}
+
+.buttonContainer {
+  width: min-content;
+  display: grid;
+  align-items: center;
+}
+.chartButton {
+  margin: 0.3rem;
+  margin-left: 1rem;
+}
+
